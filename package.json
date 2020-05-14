@@ -1,0 +1,25 @@
+{
+  "name": "training-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/U1F419/training-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/U1F419/training-service/issues"
+  },
+  "homepage": "https://github.com/U1F419/training-service#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  }
+}
