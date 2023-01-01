@@ -20,6 +20,6 @@
   "homepage": "https://github.com/U1F419/training-service#readme",
   "description": "",
   "devDependencies": {
-    "parcel": "^1.12.4"
+    "parcel": "^2.8.2"
   }
 }
